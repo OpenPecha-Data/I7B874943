@@ -1,0 +1,16 @@
+id: I7B874943
+default_language: en
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:35:34.116988
+last_modified: 2023-02-10 00:35:34.117132
+source_metadata:
+  title: 'Śāntideva: Bodhicaryāvatāra'
+  language: en
+bases:
+  F649:
+    base_file: F649.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
